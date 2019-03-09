@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Sex in Virtual Reality</title>
+	 <link rel="icon" href="Media/siteIcon.ico" type="image/x-icon">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div id='hideMe' class = center><img src="Media/loading.gif"></div>
+	<div class='hide_block1'><img src="Media/SiVR.jpg"></div>
+	<div class='hide_block2'> <input type="text" size="14" placeholder="Введите Ваш логин" class = "fontINPUT"></div>
+	<div class='hide_block3'><input type="button" value="Войти" onclick="location.href='page2.html'"></div>
+</body>
+</html
