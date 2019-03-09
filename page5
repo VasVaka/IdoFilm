@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Sex in Virtual Reality</title>
+	 <link rel="icon" href="Media/siteIcon.ico" type="image/x-icon">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div id='hideMe' class = center><img src="Media/loading.gif"></div>
+	<div class='hide_block4'><img src="Media/User.jpg"></div>
+	<div class='hide_block5'><img src="Media/btn1.jpg"></div>
+	<div class='hide_block6'><img src="Media/btn2.jpg"></div>
+</body>
+</html
