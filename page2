@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Sex in Virtual Reality</title>
+	 <link rel="icon" href="Media/siteIcon.ico" type="image/x-icon">
+     <link rel="stylesheet" type="text/css" href="style.css">
+	 <style>
+   .photo2 {
+	top: 260px;
+	position: absolute;
+	left: 41%;
+   }
+	.photo1 {
+	top: 260px;
+	position: absolute;
+	left: 16%;
+	}
+	.photo3 {
+	top: 260px;
+	position: absolute;
+	left: 66%;
+	}
+	.scale {
+    transition: 1s; /* Время эффекта */
+    }
+   .scale:hover {
+    transform: scale(1.2); /* Увеличиваем масштаб */
+  </style>
+</head>
+<body>
+	<p align = 'center'><big><big><big><big><big><big><big><big>Выберите тело персонажа</big></big></big></big></big></big></big></big></p>
+	<a href="page3.html"><img class = 'photo2 scale' src="Media/ka4.jpg"></a>
+	<img class = 'photo1 scale' src="Media/hudoi.jpg" >
+	<img class = 'photo3 scale' src="Media/jir.jpg" >
+</body>
+</html
