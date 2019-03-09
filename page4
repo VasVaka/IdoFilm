@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Sex in Virtual Reality</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+  
+  <main>
+
+    <div id="carousel">
+
+       <div class="hideLeft">
+        <img src="Media2/1.jpg">
+      </div>
+
+      <div class="prevLeftSecond">
+        <img src="Media2/2.jpg">
+      </div>
+
+      <div class="prev">
+        <img src="Media2/3.jpg">
+      </div>
+
+      <div class="selected">
+        <img src="Media2/4.jpg">
+      </div>
+
+      <div class="next">
+        <img src="Media2/5.jpg">
+      </div>
+
+      <div class="nextRightSecond">
+        <a href = 'page5.html'><img src="Media2/6.jpg"></a>
+      </div>
+
+      <div class="hideRight">
+        <img src="Media2/7.jpg">
+      </div>
+
+    </div>
+
+    <div class="buttons">
+      <button id="prev">Prev</button>
+      <button id="next">Next</button>
+    </div>
+
+  </main>
+  <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
+
+    <script src="js/index.js"></script>
+
+</body>
+</html>
